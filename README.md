@@ -56,10 +56,27 @@ DeviceInfo<BR>
 Last interfacing time: 2025-05-02T01:00:39.654423Z___
 
 Using KQL to check for any bad actors that may have been attempting to log into the target network:<BR><BR>
-![KQL Code](https://github.com/user-attachments/assets/119f2014-ba96-4bc0-b010-4cae58452298)<BR><BR>
-The following results show that none of the attempted logins were suspicious login attempts after exploring the TTP of the MITRE ATT&CK Framework. It is clear from my investigation that no T1110 Brute Force (MITRE ATT&CK Framework) logins were attempted.<BR><BR>
-![KQL Code Findings](https://github.com/user-attachments/assets/f500c383-c0a5-4113-a0e0-02ff01d4279c)<BR><BR>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4945b2bc-4737-4a33-a5bc-b1b23d7c2a86" alt="Description" width="400"/>
+  <img src="https://github.com/user-attachments/assets/119f2014-ba96-4bc0-b010-4cae58452298" alt="Description" width="800"/>
+</p><BR>
+
+The following results show that none of the attempted logins were suspicious login attempts after exploring the TTP of the MITRE ATT&CK Framework. It is clear from my investigation that no <strong>T1110 Brute Force (MITRE ATT&CK Framework)</strong> logins were attempted.<BR><BR>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f500c383-c0a5-4113-a0e0-02ff01d4279c" alt="Description" width="800"/>
+</p><BR><BR>
+
+<p align="center">
+  <strong>That wraps up Project 1: Investigating VMs that have mistakenly been exposed to the public internet</strong>
+</p>
+
+<p align="center">
+_____________________________________________________________________________________________________________________________
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/66d46db5-c4f2-4a7d-9207-da8d2870fff8" alt="Description" width="400"/>
+</p>
+<p align="center">
+_____________________________________________________________________________________________________________________________
 </p>
