@@ -73,9 +73,9 @@ The following results show that none of the attempted logins were suspicious log
 
 <p align="center">
 _____________________________________________________________________________________________________________________________
-</p>
+</p><BR>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/66d46db5-c4f2-4a7d-9207-da8d2870fff8" alt="Description" width="400"/>
+  <img src="https://github.com/user-attachments/assets/1d130215-59d9-4e38-978c-87f024ce3604" alt="Description" width="400"/>
 </p>
 <p align="center">
 _____________________________________________________________________________________________________________________________
