@@ -1,4 +1,4 @@
-## Threat Hunt Scenario 1
+## Threat Hunt Scenario: Internet Facing VM's
 #### Investigating VMs that have mistakenly been exposed to the public internet.
 
 ### - Preparation
