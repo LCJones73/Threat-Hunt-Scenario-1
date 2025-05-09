@@ -68,7 +68,7 @@ The following results show that none of the attempted logins were suspicious log
 </p><BR><BR>
 
 <p align="center">
-  <strong>That wraps up Threat Hunting Scenario: Investigating VMs that have mistakenly been exposed to the public internet</strong>
+  <strong>That wraps up Threat Hunting Scenario: Investigating Internet Facing VM's</strong>
 </p>
 
 <p align="center">
